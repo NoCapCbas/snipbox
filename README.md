@@ -12,4 +12,4 @@ This project uses the Model, View, Controller pattern.
 
 
 ** This project was built for educational purposes **
-Page:52
+Page:70
